@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# conky-netaddress
-Interfaces de red con Conky siempre visibles
-=======
 # Conky NetAddress Configuration
 
 Este proyecto contiene una configuración personalizada de Conky y un Script para mostrar las interfaces de red
@@ -48,4 +44,3 @@ chmod +x uninstall.sh
 ```
 ./uninstall.sh
 ```
->>>>>>> 9822dce (Configuración Inicial de Conky NetAddress)
